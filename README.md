@@ -2,11 +2,15 @@
 ## Arrow and Trails
 Trying Unity engine for creating an awesome 3D game
 
-<br><br>
+<br>
+<p>
+  <b>Unity Version:</b> 2020.3.15f1 <tt>LTS</tt><br>
+  <b>Modules:</b> <tt>Android</tt> <tt>iOS</tt> <tt>macOS</tt> <tt>Windows</tt>
+</p>
 
 <!--- Need Help? --->
-<b>Need Help?</b>
 <br>
+<h3>Need Help?</h3>
 Ping me on <a href="https://discord.gg/GT8VtaE">Discord <sub><img width="19px" alt="PeakMaster's Server" src="https://img.icons8.com/color/48/000000/discord-logo.png" /></sub></a>
 
 <!--- Socials --->
