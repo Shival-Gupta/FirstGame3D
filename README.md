@@ -35,5 +35,5 @@
 </a>
 </p>
 <br>
-### Need Help?
+<h3>Need Help?</h3>
 Message me on Discord
