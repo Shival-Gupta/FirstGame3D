@@ -34,3 +34,6 @@
   <img align="left" width="20px" alt="PeakMaster's YouTube Chanel" src="https://img.icons8.com/color/48/000000/youtube-play.png" />
 </a>
 </p>
+<br>
+### Need Help?
+Message me on Discord
