@@ -1,7 +1,7 @@
 ### FirstGame3D
 ## Arrow and Trails
 #### Trying Unity engine for creating an awesome 3d game
-<br><br>
+<br>
 <b>Social account handles:</b>
 <p>
 <!--- Gmail --->
