@@ -1,8 +1,20 @@
 ### FirstGame3D
 ## Arrow and Trails
-#### Trying Unity engine for creating an awesome 3d game
+Trying Unity engine for creating an awesome 3D game
+
+
+
+<br><br><br>
+
+
+<!--- Need Help? --->
+<b>Need Help?</b>
 <br>
-<b>Social account handles:</b>
+Ping me on <a href="https://discord.gg/GT8VtaE">Discord <sub><img width="19px" alt="PeakMaster's Server" src="https://img.icons8.com/color/48/000000/discord-logo.png" /></sub></a>
+
+<!--- Socials --->
+<b>Social media handles</b>
+
 <p>
 <!--- Gmail --->
 <a href="mailto:sgupta.5545@gmail.com">
@@ -34,6 +46,3 @@
   <img align="left" width="20px" alt="PeakMaster's YouTube Chanel" src="https://img.icons8.com/color/48/000000/youtube-play.png" />
 </a>
 </p>
-<br>
-<h3>Need Help?</h3>
-Message me on Discord
