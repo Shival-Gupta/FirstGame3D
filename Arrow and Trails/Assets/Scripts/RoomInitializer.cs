@@ -23,8 +23,13 @@ public class RoomInitializer : MonoBehaviourPunCallbacks
             return;
         Debug.Log("Client: Creating Room");
         roomCode = RoomCode.text;
-        MenuManager.Instance.OpenMenu("Loading");
-        PhotonNetwork.CreateRoom(roomCode);
+        if (roomCode == "")
+            ErrorMessage.text = "Enter a room name";
+        else
+        {
+            MenuManager.Instance.OpenMenu("Loading");
+            PhotonNetwork.CreateRoom(roomCode);
+        }
     }
 
     public override void OnCreateRoomFailed(short returnCode, string message)
@@ -39,8 +44,13 @@ public class RoomInitializer : MonoBehaviourPunCallbacks
     {
         Debug.Log("Client: Joining Room");
         roomCode = RoomCode.text;
-        MenuManager.Instance.OpenMenu("Loading");
-        PhotonNetwork.JoinRoom(roomCode);
+        if (roomCode == "")
+            ErrorMessage.text = "Enter a room name";
+        else
+        {
+            MenuManager.Instance.OpenMenu("Loading");
+            PhotonNetwork.JoinRoom(roomCode);
+        }
     }
 
     public override void OnJoinedRoom()
