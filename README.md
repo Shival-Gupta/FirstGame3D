@@ -1,6 +1,6 @@
 ### FirstGame3D
 ## Arrow and Trails
-Trying Unity engine for creating an awesome 3D game
+Trying Unity engine to create some awesome 3d game
 
 <br>
 <p>
