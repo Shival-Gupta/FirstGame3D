@@ -9,10 +9,11 @@ Trying Unity engine to create some awesome 3d game
 </p>
 
 <!--- Need Help? --->
+<!--- 
 <br>
 <h3>Need Help?</h3>
 Ping me on <a href="https://discord.gg/GT8VtaE">Discord <sub><img width="19px" alt="PeakMaster's Server" src="https://img.icons8.com/color/48/000000/discord-logo.png" /></sub></a>
-
+ --->
 <!--- Socials --->
 <b>Social media handles</b>
 
